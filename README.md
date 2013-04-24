@@ -1,7 +1,7 @@
 checkargjs
 ==========
 
-**Checkarg.js is a mixin for underscore.js that provides literate argument checking.
+**Checkarg.js is a mixin for underscore.js that provides literate argument checking.**
 
 To install just copy checkarg.js into your js directory and include it in a script tag.
 
