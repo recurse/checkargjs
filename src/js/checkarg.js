@@ -54,6 +54,6 @@
     Validator.extend = _.extend;
 
     _.mixin({
-        checkarg: validate;
+        checkarg: validate,
     });
 })(_);
